@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BSCS Undergraduate at University of Narowal<br>💻 Interested in Web Development & AI/ML<br>🌱 Currently improving my programming and development skills<br>🔨 Building projects that solve real-world problems<br>🎯 Goal: Become a skilled Software Engineer / AI-focused Developer
+. BSCS Undergraduate at University of Narowal<br> . Interested in Web Development & AI/ML<br> . Currently improving my programming and development skills<br> . Building projects that solve real-world problems<br>. Goal: Become a skilled Software Engineer / AI-focused Developer
 
 
 ## 🌐 Socials:
